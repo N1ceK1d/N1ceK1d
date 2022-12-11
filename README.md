@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/N1ceK1d/N1ceK1d/blob/main/banner.png" />
+<img src="https://github.com/N1ceK1d/N1ceK1d/blob/main/banner2.png" />
 
 
  <p align="center">
