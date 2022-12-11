@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://i.pinimg.com/originals/44/a5/44/44a5441a9dd763f4dce5486d5daf560e.jpg" />
+<img src="https://github.com/N1ceK1d/N1ceK1d/blob/main/banner.png" />
 
 
  <p align="center">
