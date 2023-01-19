@@ -10,13 +10,13 @@
 
 <h2 align="center">Technology Stack <img src="https://media0.giphy.com/media/IauL6LvGNlT3ffhcqq/source.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
