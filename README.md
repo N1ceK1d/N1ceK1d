@@ -1,11 +1,13 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/N1ceK1d/N1ceK1d/blob/main/banner2.png" />
+<img src="https://github.com/N1ceK1d/N1ceK1d/blob/main/banner3.png" />
 
 
- <p align="center">
-  I am a 3rd year college student. I love to learn and always learn something new💡. I like to solve complex and interesting problems related to programming ✨. Besides, I also love helping newbies👨🏻‍💻. I actively study web development 🕸️ and mobile application development📱.
+ <p align="left">
+ Hello everyone, my name is N1ceK1d, and I am a programmer, I have been actively studying programming for 4 years and especially adore cryptography 🔐, I also study Android development 📱, web development and desktop development🖥. You can freely browse all my projects in my repositories.<br>
+Programming is fun :)<br>
+Good luck to everyone 😸
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://media0.giphy.com/media/IauL6LvGNlT3ffhcqq/source.gif" width="50"></h2>
