@@ -18,8 +18,11 @@
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js"/>
 <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php"/>
-<img src="https://img.shields.io/badge/-C#-black?style=flat-square&logo=c#"/>
+<img src="https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp"/>
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-PostgeSQL-black?style=flat-square&logo=postgresql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
